@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Form</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>KinsTrade Bot</header>
+    <div class="container">
+        <form id="form1">
+            <h2>Login</h2>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required>
+            <br>
+            <label id="password1" for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            <br>
+            <input type="button" value="Login" onclick="login()">
+            <a href="">Forgot Password?</a>
+            <p id="message"></p>
+        </form>
+    </div>
+    <div id="footer">
+        <img src="binance_logo.png" alt="Binance logo">
+        <img src="bitfinex_logo.png" alt="Bitfinex logo">
+        <img src="kraken_logo.png" alt="Kraken logo">
+    </div>
+    
+</body>
+</html>

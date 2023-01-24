@@ -1,0 +1,15 @@
+D:\C#\TRADE BOT\bin\Debug\net7.0\TRADE BOT.exe
+D:\C#\TRADE BOT\bin\Debug\net7.0\TRADE BOT.deps.json
+D:\C#\TRADE BOT\bin\Debug\net7.0\TRADE BOT.runtimeconfig.json
+D:\C#\TRADE BOT\bin\Debug\net7.0\TRADE BOT.dll
+D:\C#\TRADE BOT\bin\Debug\net7.0\TRADE BOT.pdb
+D:\C#\TRADE BOT\obj\Debug\net7.0\TRADE BOT.csproj.AssemblyReference.cache
+D:\C#\TRADE BOT\obj\Debug\net7.0\TRADE BOT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TRADE BOT\obj\Debug\net7.0\TRADE BOT.AssemblyInfoInputs.cache
+D:\C#\TRADE BOT\obj\Debug\net7.0\TRADE BOT.AssemblyInfo.cs
+D:\C#\TRADE BOT\obj\Debug\net7.0\TRADE BOT.csproj.CoreCompileInputs.cache
+D:\C#\TRADE BOT\obj\Debug\net7.0\TRADE BOT.dll
+D:\C#\TRADE BOT\obj\Debug\net7.0\refint\TRADE BOT.dll
+D:\C#\TRADE BOT\obj\Debug\net7.0\TRADE BOT.pdb
+D:\C#\TRADE BOT\obj\Debug\net7.0\TRADE BOT.genruntimeconfig.cache
+D:\C#\TRADE BOT\obj\Debug\net7.0\ref\TRADE BOT.dll

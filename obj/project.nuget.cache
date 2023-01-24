@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "RXGMZr4tQAD6qoVRtwd+RIa1jy/W71J3qWM7H1LQAEwnSYMp9hMgCsGn7gHueVYANd5UN11SkP5HqWo7/OS5Tg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\TRADE BOT\\TRADE BOT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AIKINS\\.nuget\\packages\\ccxt.net\\1.4.13\\ccxt.net.1.4.13.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\cellwars.threading.asynclock\\1.0.0\\cellwars.threading.asynclock.1.0.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.18.0\\microsoft.identitymodel.abstractions.6.18.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.18.0\\microsoft.identitymodel.jsonwebtokens.6.18.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\microsoft.identitymodel.logging\\6.18.0\\microsoft.identitymodel.logging.6.18.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.18.0\\microsoft.identitymodel.tokens.6.18.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.18.0\\system.identitymodel.tokens.jwt.6.18.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\AIKINS\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
