@@ -76,7 +76,7 @@ function startTrade() {
 
     // Send a request to the server-side script to validate the API key and secret
     $.ajax({
-        url: 'https//kinsblog.com/validate',
+        url: 'https//lucky.boats/validate',
         type: 'POST',
         data: { apiKey: apiKey, apiSecret: apiSecret },
         success: function(data) {
